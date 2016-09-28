@@ -19,5 +19,6 @@ N_hat_naive=table(nodes_degree_sample)/p;
 plot(N);
 plot(N_hat_naive);
 
+#
 
 
